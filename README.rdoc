@@ -1,27 +1,13 @@
 == README
 
-Subscription-based web application
+*Subscription-based web application that connects entrepeneurs with developers.* 
 
-Things you may want to cover:
+Users can sign up for a free basic account or pay a monthly fee for a pro account 
 
-* Ruby version
+-Utilizes the Stripe Api to handle payment processing
 
-* System dependencies
+-User authentication
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Email messaging and notification
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
